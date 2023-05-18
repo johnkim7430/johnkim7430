@@ -2,3 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+title: [JKim7430 GitBlog]
+description: [디자이너 겸업 웹개발 프리랜서 JKim의 깃허브 페이지입니다.]
